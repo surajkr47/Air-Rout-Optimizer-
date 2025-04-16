@@ -101,11 +101,11 @@ Web or Mobile Interface: Build a GUI for easy input and visualization using web 
 Multi-Criteria Optimization: Expand the optimization to consider multiple factors like cost, time, and environmental impact.
 
 Contributors
-[Your Name] - Project Lead and Developer
+Suraj Kumar - Project Lead and Developer
 
-[Contributor Name] - Algorithm Implementation
+Algorithm Implementation
 
-[Contributor Name] - Visualization and Interface
+Visualization and Interface
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
